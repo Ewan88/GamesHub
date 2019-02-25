@@ -1,3 +1,5 @@
+![](diagram.png)
+
 What is responsible for defining the routes of the games resource?
 
 ```
@@ -51,5 +53,5 @@ these drivers allow node.js to interact with MongoDB
 Why do we need to use ObjectId from the MongoDB driver?
 
 ```
-ObjectID is a pointer to the location of that object in memory. This allows for an object's location to be searched, rather than a specific parameter within the object. 
+ObjectID is a pointer to the location of that object in memory. This allows for an object's location to be searched, rather than a specific parameter within the object.
 ```
